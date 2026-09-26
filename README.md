@@ -234,7 +234,7 @@ NavMeshSurface используется для построения навига
 ## В процеесе я использовал следующие технологии
 * Unity (движок)
 * C# (язык программирования)
-* Unity AI Navigation вместе с NavMesh (система обнаружения у ИИ)
+* Unity AI Navigation вместе с NavMesh (навигация и построение пути NPC)
 * Finite State Machine (FSM) (конечное дерево состояний)
-* Physics Raycast (рейкаст для отладки и отбрасывания лучей/радиуса и зрения у врагов)
+* Physics Raycast (для проверки препятствия между NPC и игроком)
 * Unity Character Controller (управление игроком)
